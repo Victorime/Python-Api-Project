@@ -7,6 +7,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 Now, we know what you may be thinking: "Duh. It gets hotter..."
 
 But, if pressed, how would you prove it?
+
 https://github.com/Victorime/Python-Api-Project/blob/master/Instructions/Images/equatorsign.png
 
 
