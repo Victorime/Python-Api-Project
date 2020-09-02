@@ -63,13 +63,13 @@ heatmap
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
-**A max temperature lower than 80 degrees but higher than 70.
+    * A max temperature lower than 80 degrees but higher than 70.
 
-** Wind speed less than 10 mph.
+    * Wind speed less than 10 mph.
 
-** Zero cloudiness.
+    * Zero cloudiness.
 
-** Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
+    * Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
 
 Note: Feel free to adjust to your specifications but be sure to limit the number of rows returned by your API requests to a reasonable number.
 
